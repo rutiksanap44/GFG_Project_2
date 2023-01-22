@@ -1,0 +1,14 @@
+b{
+    font-size: 18px;
+}
+
+label, input{
+    margin-top: 20px;
+    font-size: 15px;
+}
+label, footer{
+    font-size: 18px;
+}
+button{
+    font-size: 15px;
+}

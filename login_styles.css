@@ -1,0 +1,13 @@
+label,input{
+    margin-top: 20px;
+    font-size: 20px;
+
+}
+header{
+    font-weight: bolder;
+    font-size: 20px;
+}
+
+button{
+    font-size: 20px;
+}
